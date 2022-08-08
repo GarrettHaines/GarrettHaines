@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Garrett Haines
 - 👀 I’m interested in software engineering, web development, cloud computing, and database management
-- 🌱 I’m a senior at Eastern Michigan University studying Computer Science
-- 🌻 I anticipate on graduating in May 2022 with a Bachelor of Science
+- 🌱 I’m a software consultant at Dynatrace
+- 🌻 I graduated in 2022 with a Bachelor in Science for Computer Science and a minor in Computer Information Systems
 - 📫 How to reach me... garrettmhaines@gmail.com
 
 <!---
