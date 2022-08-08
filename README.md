@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering, web development, cloud computing, and database management
 - 🌱 I’m a software consultant at Dynatrace
 - 🌻 I graduated in 2022 with a Bachelor in Science for Computer Science and a minor in Computer Information Systems
-- 📫 How to reach me... garrettmhaines@gmail.com
+- 📫 Reach me at garrettmhaines@gmail.com or garrett.haines@dynatrace.com
 
 <!---
 garrettmhaines/garrettmhaines is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
