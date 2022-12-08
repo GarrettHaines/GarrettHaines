@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Garrett Haines
 - 👀 I’m interested in software engineering, web development, cloud computing, and database management
 - 🌱 I’m a Dynatrace software consultant for the Social Security Administration
-- 📫 Reach me at garrett@garretthaines.info, or garrett.haines@dynatrace.com for relevant inquiries
+- 📫 Reach me at garrett@garretthaines.info, or garrett.haines@dynatrace.com for Dynatrace/SSA inquiries
 
 <!---
 garretthaines/garretthaines is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
