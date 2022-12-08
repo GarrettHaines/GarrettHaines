@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Garrett Haines
 - 👀 I’m interested in software engineering, web development, cloud computing, and database management
 - 🌱 I’m a Dynatrace software consultant for the Social Security Administration
-- 🌻 I graduated in 2022 with a Bachelor of Science in Computer Science and a minor in Computer Information Systems
 - 📫 Reach me at garrettmhaines@gmail.com or garrett.haines@dynatrace.com
 
 <!---
