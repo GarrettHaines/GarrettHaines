@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Garrett Haines
 - 👀 I’m interested in software engineering, web development, cloud computing, and database management
-- 🌱 I’m a Dynatrace software consultant for the US Social Security Administration
+- 🌱 I’m a Dynatrace software consultant
+- 💻 I've consulted for the US Social Security Administration and Amgen
 - 📫 Reach me at Garrett@GarrettHaines.info, or Garrett.Haines@Dynatrace.com for Dynatrace-related inquiries
 
 <!---
