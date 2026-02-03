@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Garrett Haines
-- 👀 I’m interested in software engineering, web development, cloud computing, and database management
+- 👀 I’m interested and experienced in cloud and software engineering
 - 🌱 I’m a Dynatrace software consultant
 - 📫 Reach me at Garrett@GarrettHaines.info, or Garrett.Haines@Dynatrace.com for Dynatrace-related inquiries
 
