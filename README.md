@@ -2,7 +2,8 @@
 - 🪴 I’m interested and experienced in cloud and software engineering
 - 🧑‍💻 I’m a Dynatrace software consultant
 - 🔧 I support a diverse range of clients, including commercial enterprises and federal agencies
-- 📫 Reach me at Garrett@GarrettHaines.info or Garrett.Haines@Dynatrace.com for Dynatrace-related inquiries
+- 📧 For Dynatrace-related matters, contact me at Garrett.Haines@Dynatrace.com
+- 📫 Otherwise, reach me at Garrett.Haines@GarrettHaines.info
 
 <!---
 garretthaines/garretthaines is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
