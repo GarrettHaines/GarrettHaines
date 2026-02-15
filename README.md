@@ -2,7 +2,7 @@
 - 🪴 I’m interested and experienced in cloud and software engineering
 - 🧑‍💻 I’m a Dynatrace software consultant
 - 🔧 I support a diverse range of clients, including commercial enterprises and federal agencies
-- 📧 For Dynatrace-related matters, contact me at Garrett.Haines@Dynatrace.com
+- 📨 For Dynatrace-related matters, contact me at Garrett.Haines@Dynatrace.com
 - 📫 Otherwise, reach me at Garrett.Haines@GarrettHaines.info
 
 <!---
