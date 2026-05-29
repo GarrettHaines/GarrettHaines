@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Garrett Haines
+- 👋 Hi, I’m Garrett
 - 🪴 I’m interested and experienced in cloud and software engineering
 - 🧑‍💻 I’m currently a Dynatrace software consultant
 - ✨ I'm an AWS Certified Solutions Architect - Associate (SAA-C03)
