@@ -2,5 +2,5 @@
 - 🪴 I’m interested and experienced in cloud and software engineering
 - 🧑‍💻 I’m currently a Dynatrace software consultant
 - ✨ I'm an AWS Certified Solutions Architect - Associate (SAA-C03)
-- 🔧 I've supported a diverse range of clients, ranging from commercial enterprises to federal agencies
+- 🔧 I've supported a diverse range of clients, from commercial enterprises to federal agencies
 - 📫 Reach me at Garrett.Haines@GarrettHaines.info or Garrett.Haines@Dynatrace.com for Dynatrace-related inqueries
