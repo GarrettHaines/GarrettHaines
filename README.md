@@ -2,4 +2,4 @@
 - 🧑‍💻 Software consultant at Dynatrace supporting a variety of customers
 - ✨ AWS Certified Solutions Architect - Associate (SAA-C03) (2026)
 - 🔧 Supporting a diverse range of clients, from commercial enterprises to federal agencies
-- 📫 Garrett@GarrettHaines.info or Garrett.Haines@Dynatrace.com for Dynatrace-related inqueries
+- 📫 Garrett@GarrettHaines.info or Garrett.Haines@Dynatrace.com
